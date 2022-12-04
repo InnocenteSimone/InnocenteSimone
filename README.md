@@ -2,12 +2,19 @@
 
 I'm a student of University of Padova currently working on my thesis project.
 
-
+<!--
 <div id="badges">
   <a style="top:5px;" href="https://www.linkedin.com/in/simone-innocente-77a3071a7/">
     <img style="width: 35px;height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Badge"/>
   Check my linkedin profile!</a>
 </div>
+-->
+
+<div id="badges">
+ <img style="width: 35px;height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/simone-innocente-77a3071a7/" style="position: relative;bottom: 10px;left: 5px;">
+   Check my linkedin profile!</a>
+</div
 
 ---
 
